@@ -13,7 +13,7 @@ body {
 	display: -webkit-flex;
 	display: flex;
 	position: relative;
-	border-bottom: 4px #4352B1 solid;
+	border-bottom: 4px #37e solid;
 }
 
 #heroImage h1 {
@@ -42,7 +42,7 @@ b {
 }
 
 .blue {
-	color: #4352b1;
+	color: #37e;
 }
 
 button {
@@ -53,7 +53,7 @@ button {
 	font-size: 1.2em;
 	padding: 10px 15px;
 	border: 0;
-	background-color: #4352b1;
+	background-color: #37e;
 	border-radius: 2px;
 	min-width: 150px;
 	margin-top: 20px;
@@ -61,12 +61,12 @@ button {
 }
 
 .buttonBorder {
-	border: 2px #4352b1 solid;
+	border: 2px  solid;
 }
 
 button:hover {
 	cursor: pointer;
-	color: #4352b1;
+	color: #37e;
 	opacity: 1;
 	background-color: white;
 }
@@ -450,7 +450,7 @@ hr {
 }
 
 .darkCard {
-	background-color: #8a8a8a;
+	background-color: #4a4a4a;
 }
 
 .dates a {
@@ -510,7 +510,7 @@ input:not([type=submit]):not([type=file]):not([type=radio]) {
 }
 
 input:not([type=submit]):not([type=file]):not([type=radio]):focus {
-	border: 2px #4352b1 solid;
+	border: 2px  solid;
 }
 
 input[type=radio] {
@@ -565,7 +565,7 @@ select {
 }
 
 .ac-container label:hover {
-	color: #4352b1;
+	color: #37e;
 }
 
 .ac-container label:hover:after,
@@ -633,7 +633,7 @@ select {
 }
 
 .cardBorder:hover {
-	border-bottom: 3px #4352b1 solid;
+	border-bottom: 3px #37e solid;
 }
 
 sup {
@@ -793,5 +793,5 @@ code {
 	font-family: 'Roboto', sans-serif;
 	padding: 10px;
 	color: white;
-	background-color: #4352b1;
+	background-color: #37e;
 }

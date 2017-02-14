@@ -22,7 +22,7 @@ body {
 
 h1 {
 	margin: 0;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: normal;
 	font-size: 2em;
 	color: white;
@@ -38,7 +38,7 @@ h1 {
 
 b {
 	font-weight: 700;
-	font-family: 'Roboto';
+	font-family: 'Source Sans Pro';
 }
 
 .blue {
@@ -46,7 +46,7 @@ b {
 }
 
 button {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
 	opacity: 1;
 	color: white;
@@ -108,7 +108,7 @@ div {
 }
 
 #menuLink {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
 	text-decoration: none;
 }
@@ -128,7 +128,7 @@ div {
 h2 {
 	font-weight: 700;
 	margin: 10px 0;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.6em;
 }
 
@@ -164,8 +164,8 @@ h2 {
 
 .annLink {
 	font-size: 1.2em;
-	font-family: 'Roboto', sans-serif;
-	font-weight: 500;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-weight: 600;
 	text-decoration: none;
 }
 
@@ -181,7 +181,7 @@ h2 {
 
 .description {
 	font-size: 1em;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	opacity: .6;
 	margin: 0;
 }
@@ -197,7 +197,7 @@ h2 {
 
 a {
 	text-decoration: none;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
 	color: #4a4a4a;
 }
@@ -275,7 +275,7 @@ p {
 	margin: 0;
 	font-size: 1.1em;
 	line-height: 1.4;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
 }
 
@@ -290,19 +290,19 @@ p {
 
 .life {
 	font-size: 7em;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
 	letter-spacing: 8px;
 }
 
 .brpTitle {
 	font-size: 1.2em;
-	font-family: 'Roboto', sans-serif;
-  font-weight: 500;
+	font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
 }
 
 .passages {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-size: 1.8em;
 	line-height: 1.5;
 }
@@ -332,18 +332,18 @@ p {
 }
 
 .bold {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
 }
 
 .book {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
 }
 
 .medium {
-	font-family: 'Roboto', sans-serif;
-  font-weight: 500;
+	font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
 }
 
 .half {
@@ -465,7 +465,7 @@ hr {
 }
 
 h3 {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: 700;
 	margin: 10px 0;
 }
@@ -497,7 +497,7 @@ input:not([type=submit]):not([type=file]):not([type=radio]) {
 	border: 2px rgba(0, 0, 0, .2) solid;
 	font-size: 1.2em;
 	border-radius: 2px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: normal;
 	transition: ease-in 150ms all;
 	-webkit-box-sizing: border-box;
@@ -533,7 +533,7 @@ select {
 	height: 50px;
 	font-size: 1.2em;
 	border-radius: 2px;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	font-weight: normal;
 	box-shadow: none;
 	margin: 5px 0;
@@ -549,7 +549,7 @@ select {
 }
 
 .ac-container label {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
   font-weight: 700;
 	padding: 10px 0;
 	position: relative;
@@ -780,7 +780,7 @@ code {
 }
 
 .hmi-links a {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	height: 20px;
 	padding: 10px;
 	display: block;
@@ -790,7 +790,7 @@ code {
 }
 
 .hmi-links a:hover {
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Source Sans Pro', sans-serif;
 	padding: 10px;
 	color: white;
 	background-color: #37e;
